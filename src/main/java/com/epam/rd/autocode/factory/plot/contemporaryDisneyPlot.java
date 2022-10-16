@@ -1,7 +1,4 @@
-package com.epam.rd.autocode.factory.plot.Plots;
-
-import com.epam.rd.autocode.factory.plot.Characters.Character;
-import com.epam.rd.autocode.factory.plot.EpicCrises.EpicCrisis;
+package com.epam.rd.autocode.factory.plot;
 
 public class contemporaryDisneyPlot implements Plot{
     StringBuilder stringBuilder = new StringBuilder();

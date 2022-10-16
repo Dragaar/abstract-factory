@@ -1,8 +1,5 @@
 package com.epam.rd.autocode.factory.plot;
 
-import com.epam.rd.autocode.factory.plot.Characters.Character;
-import com.epam.rd.autocode.factory.plot.EpicCrises.EpicCrisis;
-
 class PlotFactories {
 
     public PlotFactory classicDisneyPlotFactory(Character hero, Character beloved, Character villain) {

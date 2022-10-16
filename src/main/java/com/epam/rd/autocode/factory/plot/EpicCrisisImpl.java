@@ -1,6 +1,4 @@
-package com.epam.rd.autocode.factory.plot.EpicCrises;
-
-import com.epam.rd.autocode.factory.plot.EpicCrises.EpicCrisis;
+package com.epam.rd.autocode.factory.plot;
 
 public class EpicCrisisImpl implements EpicCrisis {
     String name;
