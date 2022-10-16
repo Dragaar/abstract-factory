@@ -1,5 +1,6 @@
 package com.epam.rd.autocode.factory.plot;
 
+import com.epam.rd.autocode.factory.plot.Characters.Character;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
