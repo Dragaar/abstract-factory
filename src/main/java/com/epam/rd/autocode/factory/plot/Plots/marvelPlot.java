@@ -1,4 +1,7 @@
-package com.epam.rd.autocode.factory.plot;
+package com.epam.rd.autocode.factory.plot.Plots;
+
+import com.epam.rd.autocode.factory.plot.Characters.Character;
+import com.epam.rd.autocode.factory.plot.EpicCrises.EpicCrisis;
 
 public class marvelPlot implements Plot{
 

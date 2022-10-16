@@ -1,4 +1,6 @@
-package com.epam.rd.autocode.factory.plot;
+package com.epam.rd.autocode.factory.plot.Plots;
+
+import com.epam.rd.autocode.factory.plot.Characters.Character;
 
 public class classicDisneyPlot implements Plot{
     StringBuilder stringBuilder = new StringBuilder();
